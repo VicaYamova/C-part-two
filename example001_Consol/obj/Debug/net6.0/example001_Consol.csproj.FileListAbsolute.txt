@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\програм\example001_Consol\bin\Debug\net6.0\example001_Consol.exe
+C:\Users\HP\Desktop\програм\example001_Consol\bin\Debug\net6.0\example001_Consol.deps.json
+C:\Users\HP\Desktop\програм\example001_Consol\bin\Debug\net6.0\example001_Consol.runtimeconfig.json
+C:\Users\HP\Desktop\програм\example001_Consol\bin\Debug\net6.0\example001_Consol.dll
+C:\Users\HP\Desktop\програм\example001_Consol\bin\Debug\net6.0\example001_Consol.pdb
+C:\Users\HP\Desktop\програм\example001_Consol\obj\Debug\net6.0\example001_Consol.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\програм\example001_Consol\obj\Debug\net6.0\example001_Consol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\програм\example001_Consol\obj\Debug\net6.0\example001_Consol.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\програм\example001_Consol\obj\Debug\net6.0\example001_Consol.AssemblyInfo.cs
+C:\Users\HP\Desktop\програм\example001_Consol\obj\Debug\net6.0\example001_Consol.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\програм\example001_Consol\obj\Debug\net6.0\example001_Consol.dll
+C:\Users\HP\Desktop\програм\example001_Consol\obj\Debug\net6.0\refint\example001_Consol.dll
+C:\Users\HP\Desktop\програм\example001_Consol\obj\Debug\net6.0\example001_Consol.pdb
+C:\Users\HP\Desktop\програм\example001_Consol\obj\Debug\net6.0\example001_Consol.genruntimeconfig.cache
+C:\Users\HP\Desktop\програм\example001_Consol\obj\Debug\net6.0\ref\example001_Consol.dll
